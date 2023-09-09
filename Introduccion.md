@@ -1,4 +1,4 @@
-# Inforrme del Proyecto
+# Informe del Proyecto
 
 # Introducción
 
