@@ -6,12 +6,12 @@ Este es un proyecto desarrollado para la materia Práctica Profesionalizante I y
 
 El equipo de desarrollo está compuesto por:
 
-- Ezequiel Cortes Pedernera
+- Cortes Pedernera Ezequiel
 - González Martínez Juan 
-- Mariano Delfino
-- Beverly Gonzalez Casanova
-- Juan Cortez Zamar 
-- Miguel Pacori
+- Delfino Mariano 
+- Gonzalez Casanova Beverly 
+- Cortez Zamar Juan 
+- Pacori Miguel 
 - Umido Marco
 
 ## Descripción del conjunto de datos
