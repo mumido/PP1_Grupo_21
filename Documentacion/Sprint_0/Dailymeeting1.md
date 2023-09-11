@@ -1,4 +1,4 @@
-#reunion Domingo 10 de Septiembre
+# reunion Domingo 10 de Septiembre
 
 nos encontramos a las 20 horas del domingo 10 de septiembre donde realizamos el daily Scrum meeting, esta finalizo a las 20:50 del mismo día, en la cual nos reunimos los 7 participantes del grupo, Marcos, Beverly, Juan, Ezequiel, Miguel, Anibal y Mariano.
 en esta misma chequeamos:
