@@ -7,4 +7,4 @@ en esta misma chequeamos:
 3 - contemplamos la idea que acepten la propuesta del conjunto de datos o que no la acepten la cual nos haría decantarnos en otro dataset.
 4 - acordamos que Marco Umido va a ser el coordinador del proyecto, y que Juan Zamar sera quien presente el mismo
 5 - vamos a coordinar nueva reunion luego de que nos aprueben el proyecto
-![Alt text](image.png)
+![reunion 3](https://github.com/mumido/PP1_Grupo_21/assets/89482823/c6bb8c9b-f29b-4d00-866c-93c13247284a)
