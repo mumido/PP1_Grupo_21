@@ -30,7 +30,7 @@ El proyecto se desarrolló utilizando las siguientes tecnologías y bibliotecas:
 - Seaborn: Biblioteca para crear gráficos estadísticos en Python.
 - Scikit-learn (sklearn): Biblioteca para el aprendizaje automático.
 
-## Instrucciones de instalación y ejecución
+## Instrucciones de instalación y ejecución del programa
 
 Para ejecutar el proyecto en tu entorno local, sigue estos pasos:
 
